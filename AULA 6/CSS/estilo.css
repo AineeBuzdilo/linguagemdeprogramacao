@@ -1,0 +1,118 @@
+/*Este é o CSS do Site Design Digital*/
+corpo {
+	família de fontes:arial;
+	cor:#686868;
+}
+
+. local {
+	largura:1680px; _
+	margin-left:auto;
+	margin-right:auto;
+}
+
+. logotipo {
+	largura:400px; _
+	padding-top:30px;
+}
+
+cabeçalho {
+	text-align:esquerda;
+}
+
+h1 {
+	tamanho da fonte:50px ;
+	cor:#999999;
+}
+
+navegação {
+	tamanho da fonte:25px;
+	largura:1510px; _
+    text-align:direita;
+    margem superior:0px ;
+
+}
+
+. cardápio {
+	cor:#999999 ;
+	padding-left:20px ;
+
+}
+
+. img_principal {
+    margin-left:auto;
+    margin-right:auto;
+    largura:1510px ; _
+}
+
+div {
+	margem superior:0px ;
+}
+
+. cabeçalho {
+	largura:1680px; _
+	posição:relativa;
+
+}
+
+. construção_web {
+	posição:absoluta;
+	margin-top:-400px;
+	margem esquerda:20px !importante;
+	opacidade:0,8;
+	largura:400px; _
+	altura:250px; _
+	padding-top:5px;
+	padding-left:20px;
+	cor:#ffffff; _
+	fundo:#364848;
+	margem esquerda:0px;
+}
+
+artigo {
+	exibição:bloco em linha;
+	margem direita:20px;
+	margem superior:40px;
+}
+
+
+.conteudo {
+
+}
+.conteudo_coluna {
+	largura:380px; _
+	altura:500px; _
+	
+}
+
+h3 {
+	tamanho da fonte:20px;
+}
+
+h2 {
+	tamanho da fonte:30px;	
+}
+
+.depoimentos {
+	cor:#00ccff;
+}
+
+
+.mussum {
+	largura:300px; _
+}
+
+.foto-01 {
+	largura:300px; _
+}
+
+.foto-02 {
+	largura:300px; _
+}
+
+.foto-03{
+	largura:300px; _
+}
+
+.foto-04 {
+	largura: 300px; _
+}
