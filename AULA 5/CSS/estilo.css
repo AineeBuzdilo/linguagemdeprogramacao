@@ -1,0 +1,62 @@
+corpo {
+	font-family:'Open Sans', sans-serif;
+	cor de fundo:#FAF8DA;
+	margem:0;
+}
+
+cabeçalho {
+	text-align:centro;
+}
+
+h1 {
+	tamanho da fonte:40px;
+	cor:#205D76;
+}
+
+. cabeçalho {
+	largura:650px; _
+
+}
+
+artigo {
+	exibição:flexível;
+	largura:450px; _
+	margem:50px automático;
+}
+
+.artigo {
+	largura:200px; _
+}
+
+div {
+	margem esquerda:30px;
+}
+
+h2 {
+	tamanho da fonte:30px;
+	cor:#205D76;
+}
+
+ul {
+	cor:#FFC122;
+	padding-left:15px;
+}
+li {
+	margem inferior:10px;
+
+}
+um {
+	tamanho da fonte:20px;
+	cor:#EA6E2F;
+}
+rodapé {
+	cor de fundo:# FFC122;
+	text-align:centro;
+	preenchimento:2px; _
+
+}
+p {
+	cor:#FFFFFF; _
+	tamanho da fonte:20 px;
+	
+}
